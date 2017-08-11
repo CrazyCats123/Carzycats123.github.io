@@ -1,5 +1,5 @@
 .parallax {
-    min-height: 900px;
+    min-height: 1200px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -15,7 +15,7 @@
 }
 
 .scroll-box{
-  height:200px;
+  height:400px;
   width: auto;
   background-color: #5ca9d2;
   display: block;
@@ -49,7 +49,7 @@
 
 .whitebox {
     position: absolute;
-    top: 400px;
+    top: 500px;
     background: rgba(255,255,255,0.6);
     margin-left:50%;
     transform: translateX(-50%);
